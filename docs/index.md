@@ -21,7 +21,3 @@ features:
   - title: 社区共建
     details: 欢迎通过 PR 贡献文档改进
 ---
-
-# LightMind Docs
-
-LightMind 项目官方文档仓库。
