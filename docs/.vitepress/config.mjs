@@ -7,6 +7,7 @@ export default defineConfig({
     ['link', { rel: 'icon', type: 'image/png', href: '/hatching-chick.png' }]
   ],
   themeConfig: {
+    logo: '/hatching-chick.png',
     nav: [
       { text: '首页', link: '/' },
       { text: '指南', link: '/guide/' },
