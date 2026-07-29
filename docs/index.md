@@ -3,21 +3,30 @@ layout: home
 
 hero:
   name: "LightMind Docs"
-  text: "官方文档中心"
-  tagline: 简洁、高效的项目文档
+  text: "文档中心"
+  tagline: "帮助你快速了解 LightMind，高效开启智能学习之旅"
   actions:
     - theme: brand
-      text: 快速开始
+      text: 进一步了解
       link: /guide/getting-started
     - theme: alt
-      text: GitHub
-      link: https://github.com/lightmindlab/lightminddocs
+      text: 打开 Web 版
+      link: https://www.lightmind.top
+    - theme: alt
+      text: 下载 Android 版
+      link: https://www.lightmind.top
+    - theme: alt
+      text: 下载 Windows 版
+      link: https://www.lightmind.top
+    - theme: alt
+      text: 了解我们如何使用 TRAE 开发 LightMind
+      link: /about/build-lightmind-with-trae.md
 
 features:
-  - title: 简洁易用
-    details: 基于 VitePress 构建，提供流畅的阅读体验
-  - title: 持续更新
-    details: 文档与项目同步迭代，保持最新状态
-  - title: 社区共建
-    details: 欢迎通过 PR 贡献文档改进
+  - title: Intelligence for Learning
+    details: 将人工智能融入学习流程，帮助用户理解知识、探索问题并持续提升能力
+  - title: A Unified Learning System
+    details: 连接知识、工具与实践，构建完整、智能且开放的学习体系
+  - title: Built to Evolve
+    details: 持续优化内容、功能与体验，适应不断发展的学习需求
 ---
