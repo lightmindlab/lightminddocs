@@ -4,6 +4,7 @@ dist
 *.log
 .DS_Store
 .pnpm-store
+docs/.vitepress/cache
 # 工作区根目录的原始素材图片（已复制到 docs/public，不提交源文件）
 /PNG图像.png
 /hatching_chick_animated.png
