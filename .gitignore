@@ -4,3 +4,6 @@ dist
 *.log
 .DS_Store
 .pnpm-store
+# 用户提供的原始素材图片，仅用于本仓库内 docs/public 使用
+/PNG图像.png
+/hatching_chick_animated.png

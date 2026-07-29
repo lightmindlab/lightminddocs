@@ -3,6 +3,9 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: 'LightMind 文档中心',
   description: 'LightMind 文档中心',
+  head: [
+    ['link', { rel: 'icon', type: 'image/png', href: '/hatching-chick.png' }]
+  ],
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
