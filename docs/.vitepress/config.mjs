@@ -34,7 +34,7 @@ export default defineConfig({
         {
           text: '功能',
           items: [
-            { text: '概览', link: '/feature/getting-started' },
+            { text: '概览', link: '/feature/overview' },
             { text: '对话', link: '/feature/conversation' },
             { text: '日程', link: '/feature/schedule' },
             { text: '项目', link: '/feature/project' },
