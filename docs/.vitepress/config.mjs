@@ -22,7 +22,11 @@ export default defineConfig({
         {
           text: '指南',
           items: [
-            { text: '快速开始', link: '/guide/getting-started' }
+            { text: '快速开始', link: '/guide/getting-started' },
+            { text: '注册账号', link: '/guide/getting-started' },
+            { text: '登录账号', link: '/guide/getting-started' },
+            { text: '快速上手 LightMind', link: '/guide/getting-started' },
+            { text: '设置你的 LightMind 账号', link: '/guide/getting-started' }
           ]
         }
       ],
@@ -33,10 +37,12 @@ export default defineConfig({
             { text: '概览', link: '/feature/getting-started' },
             { text: '对话', link: '/feature/getting-started' },
             { text: '日程', link: '/feature/getting-started' },
+            { text: '项目', link: '/feature/getting-started' },
             { text: '知识图谱', link: '/feature/getting-started' },
             { text: '资料库', link: '/feature/getting-started' },
-            { text: '题目解析', link: '/feature/getting-started' },
             { text: '图书', link: '/feature/getting-started' },
+            { text: '白板', link: '/feature/getting-started' },
+            { text: '作业答疑', link: '/feature/getting-started' },
             { text: '教材学习', link: '/feature/getting-started' },
             { text: '写作', link: '/feature/getting-started' }
           ]
@@ -48,8 +54,8 @@ export default defineConfig({
           items: [
             { text: '更新日志', link: '/about/getting-started' },
             { text: '了解 LightMind', link: '/about/getting-started' },
-            { text: '了解我们如何使用 TRAE 开发 LightMind', link: '/about/build-lightmind-with-trae' },
-            { text: '路线图', link: '/about/getting-started' }
+            { text: '路线图', link: '/about/getting-started' },
+            { text: '了解我们如何使用 TRAE 开发 LightMind', link: '/about/build-lightmind-with-trae' }
           ]
         }
       ]
