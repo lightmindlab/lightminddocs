@@ -182,4 +182,4 @@ LightMind Books 更像是一位持续陪伴你的学习伙伴。
 
 **Learn Better. Think Deeper. Create Forever.**
 
-用 AI，让每个人都拥有自己的智能图书馆。
+用 AI，赋能每一次学习与创造。

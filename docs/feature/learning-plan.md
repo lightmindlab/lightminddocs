@@ -24,3 +24,12 @@
 ![Screenshot_2026-08-07-15-00-21-355_com.chrome.beta-edit](/images/e31184c1e6b82600994d2636fb0b19a1.jpg)
 
 ![Screenshot_2026-08-07-15-00-43-245_com.chrome.beta-edit](/images/d097d02f8794db12677a65ebe3216eba.jpg)
+
+
+---
+
+# LightMind
+
+**Learn Better. Think Deeper. Create Forever.**
+
+用 AI，赋能每一次学习与创造。

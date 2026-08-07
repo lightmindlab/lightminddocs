@@ -6,3 +6,12 @@
 - 白板导出：支持将白板导出为图片或其他常用格式，便于分享与留存。
 
 ![IMG_20260807_131354](/images/c99e404ece748ee6dac4219492930e50.jpg)
+
+
+---
+
+# LightMind
+
+**Learn Better. Think Deeper. Create Forever.**
+
+用 AI，赋能每一次学习与创造。

@@ -21,3 +21,12 @@ AI 会对作文中的句子进行逐句评析，并针对需要优化的内容�
 ![IMG_20260807_135916](/images/920d91d6361c00a9790e77966ece21ad.jpg)
 
 ![IMG_20260807_135932](/images/8b6dfeecf4349cb923f8d95e48c11163.jpg)
+
+
+---
+
+# LightMind
+
+**Learn Better. Think Deeper. Create Forever.**
+
+用 AI，赋能每一次学习与创造。

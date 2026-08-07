@@ -13,6 +13,9 @@ hero:
       text: 进一步了解
       link: /guide/register-account
     - theme: alt
+      text: 用户案例
+      link: /about/user-cases
+    - theme: alt
       text: 了解我们如何使用 TRAE 开发 LightMind
       link: /about/build-lightmind-with-trae.md
 ---
