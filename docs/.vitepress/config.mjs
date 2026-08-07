@@ -37,6 +37,7 @@ export default defineConfig({
             { text: '概览', link: '/feature/overview' },
             { text: '对话', link: '/feature/conversation' },
             { text: '日程', link: '/feature/schedule' },
+            { text: '学习计划', link: '/feature/learning-plan' },
             { text: '项目', link: '/feature/project' },
             { text: '知识图谱', link: '/feature/knowledge-graph' },
             { text: '资料库', link: '/feature/library' },
@@ -55,6 +56,7 @@ export default defineConfig({
             { text: '更新日志', link: '/about/changelog' },
             { text: '了解 LightMind', link: '/about/about-lightmind' },
             { text: '路线图', link: '/about/roadmap' },
+            { text: '用户案例', link: '/about/user-cases' },
             { text: '了解我们如何使用 TRAE 开发 LightMind', link: '/about/build-lightmind-with-trae' }
           ]
         }
