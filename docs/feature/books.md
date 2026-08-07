@@ -175,11 +175,3 @@ LightMind Books 更像是一位持续陪伴你的学习伙伴。
 把知识组织成一本书， 把灵感沉淀成一本书， 把课程制作成一本书， 把人生经验写成一本书。
 
 每一本书，都可以不断成长。
-
----
-
-# LightMind
-
-**Learn Better. Think Deeper. Create Forever.**
-
-用 AI，赋能每一次学习与创造。

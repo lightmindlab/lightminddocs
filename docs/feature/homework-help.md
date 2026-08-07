@@ -43,11 +43,3 @@ AI 不仅能够理解题目内容，还可以对题目中的图片进行智能�
 ![IMG_20260807_152522](/images/d29ffe277dabc9a012b20cf94b28e459.jpg)
 
 让每一道作业题都从“看懂答案”升级为“理解方法”，真正帮助学生掌握知识。
-
----
-
-# LightMind
-
-**Learn Better. Think Deeper. Create Forever.**
-
-用 AI，赋能每一次学习与创造。

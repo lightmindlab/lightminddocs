@@ -17,12 +17,3 @@ AI 可对教材中的指定区域进行智能编辑，例如调整、补充或�
 ![IMG_20260807_132636](/images/d44f6c393845a1a3bece86d3ed70fc7c.jpg)
 
 ![IMG_20260807_132701](/images/24c9b515247004793d0672d95cdd0fa5.jpg)
-
-
----
-
-# LightMind
-
-**Learn Better. Think Deeper. Create Forever.**
-
-用 AI，赋能每一次学习与创造。
