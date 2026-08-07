@@ -1,3 +1,5 @@
+# 了解我们如何使用 TRAE 开发 LightMind
+
 ## LightMind 的诞生
 
 LightMind 最初并不是为了「做一个 AI 产品」而诞生，而是源于一个很现实的问题。
