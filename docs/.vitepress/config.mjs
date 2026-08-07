@@ -10,9 +10,9 @@ export default defineConfig({
     logo: '/hatching-chick.png',
     nav: [
       { text: '首页', link: '/' },
-      { text: '指南', link: '/guide/' },
-      { text: '功能', link: '/feature/' },
-      { text: '关于', link: '/about/' },
+      { text: '指南', link: '/guide/register-account' },
+      { text: '功能', link: '/feature/overview' },
+      { text: '关于', link: '/about/build-lightmind-with-trae' },
       { text: '打开网页版', link: 'https://www.lightmind.top' },
       { text: '下载应用', link: 'https://www.lightmind.top/download' },
       { text: '服务健康状态', link: 'https://status.lightmind.top' }
@@ -22,11 +22,8 @@ export default defineConfig({
         {
           text: '指南',
           items: [
-            { text: '快速开始', link: '/guide/getting-started' },
             { text: '注册账号', link: '/guide/register-account' },
-            { text: '登录账号', link: '/guide/login-account' },
-            { text: '快速上手 LightMind', link: '/guide/quick-start' },
-            { text: '设置你的 LightMind 账号', link: '/guide/settings' }
+            { text: '登录账号', link: '/guide/login-account' }
           ]
         }
       ],
@@ -36,7 +33,6 @@ export default defineConfig({
           items: [
             { text: '概览', link: '/feature/overview' },
             { text: '对话', link: '/feature/conversation' },
-            { text: '日程', link: '/feature/schedule' },
             { text: '学习计划', link: '/feature/learning-plan' },
             { text: '项目', link: '/feature/project' },
             { text: '知识图谱', link: '/feature/knowledge-graph' },
@@ -53,9 +49,6 @@ export default defineConfig({
         {
           text: '关于',
           items: [
-            { text: '更新日志', link: '/about/changelog' },
-            { text: '了解 LightMind', link: '/about/about-lightmind' },
-            { text: '路线图', link: '/about/roadmap' },
             { text: '用户案例', link: '/about/user-cases' },
             { text: '了解我们如何使用 TRAE 开发 LightMind', link: '/about/build-lightmind-with-trae' }
           ]
