@@ -1,4 +1,4 @@
-## LightMind
+# 概览
 
 ***Learn Better. Think Deeper. Create Forever.***
 
