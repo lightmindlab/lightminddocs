@@ -34,7 +34,6 @@ export default defineConfig({
             { text: '概览', link: '/feature/overview' },
             { text: '对话', link: '/feature/conversation' },
             { text: '学习计划', link: '/feature/learning-plan' },
-            { text: '项目', link: '/feature/project' },
             { text: '知识图谱', link: '/feature/knowledge-graph' },
             { text: '资料库', link: '/feature/library' },
             { text: '图书', link: '/feature/books' },

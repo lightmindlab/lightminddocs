@@ -14,7 +14,6 @@
 
 - [对话](https://docs.lightmind.top/feature/conversation) — AI 智能对话，让理解知识像聊天一样自然
 - [学习计划](https://docs.lightmind.top/feature/learning-plan) — AI 自动规划学习路径，生成测验巩固成果
-- [项目](https://docs.lightmind.top/feature/project) — 项目制学习，让知识体系化
 - [知识图谱](https://docs.lightmind.top/feature/knowledge-graph) — 构建个人知识网络，让知识相互连接
 - [资料库](https://docs.lightmind.top/feature/library) — AI 驱动的智能资料管理与知识探索
 - [图书](https://docs.lightmind.top/feature/books) — 把知识变成一本真正的 AI 图书
