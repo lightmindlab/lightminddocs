@@ -6,6 +6,6 @@
 
 ![IMG_20260807_125826](/images/532e8b8b85cc81532ca4d9fc0407ff7b.jpg)
 
-![日程日历](/images/schedule-calendar.jpg)
+![日程日历](/images/ec066bfac68d77f9526c2923dddebc48.jpg)
 
 点击事项即可跳转到对应页面。
