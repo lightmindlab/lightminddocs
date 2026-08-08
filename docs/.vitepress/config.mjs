@@ -33,6 +33,7 @@ export default defineConfig({
           items: [
             { text: '概览', link: '/feature/overview' },
             { text: '对话', link: '/feature/conversation' },
+            { text: '日程', link: '/feature/schedule' },
             { text: '学习计划', link: '/feature/learning-plan' },
             { text: '知识图谱', link: '/feature/knowledge-graph' },
             { text: '资料库', link: '/feature/library' },
